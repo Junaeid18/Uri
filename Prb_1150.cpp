@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int x,z,start {0},sum = 0;
+    int x,z,start {1},sum = 0;
     cin>>x;
     cin>>z;
     while (x >= z)
